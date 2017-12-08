@@ -1,3 +1,4 @@
 # customer_segmentation
 
-test
+doing
+
